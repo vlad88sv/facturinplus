@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trabajo>
+<general>
+<tipo>credito_fiscal|consumidor_final</tipo>
+<impuestos>iva|exento</impuestos>
+
+</general>
+<productos>
+<producto cantidad="0" precio="0" nosujeta="0">Consumo</producto>
+</productos>
+</trabajo>
